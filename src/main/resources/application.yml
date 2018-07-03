@@ -1,0 +1,6 @@
+server:
+  #监听的端口号
+  port: 80
+spring:
+  resources:
+    static-locations: classpath:/static/
